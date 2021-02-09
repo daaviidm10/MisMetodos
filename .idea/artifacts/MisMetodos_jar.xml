@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MisMetodos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MisMetodos_jar</output-path>
+    <root id="archive" name="MisMetodos.jar">
+      <element id="module-output" name="MisMetodos" />
+    </root>
+  </artifact>
+</component>
